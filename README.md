@@ -43,9 +43,3 @@ Textos: 100% autorais
 Imagens: Elementos gráficos criados dentro do próprio código p5.js
 
 Referências externas: Não há uso de imagens ou sons externos
-
-5️⃣ Requisitos Técnicos Atendidos
-✅ Uso de setup(), draw(), variáveis (let), condicionais (if), loops, funções de evento como mousePressed()
-✅ Estrutura organizada com funções modulares (ex.: drawFaseSerra(), drawFasePrensadora(), etc.)
-✅ Barra de progresso usa map() para ajustar o visual conforme o progresso
-✅ Projeto pronto para publicação no GitHub
